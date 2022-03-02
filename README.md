@@ -1,2 +1,2 @@
 # Test
-test repositry
+test repositry for git commands demonstration
